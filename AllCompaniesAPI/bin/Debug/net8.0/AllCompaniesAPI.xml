@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AllCompaniesAPI</name>
+    </assembly>
+    <members>
+        <member name="M:AllCompaniesAPI.Controllers.CompanyController.GetAllCompanies">
+            <summary>
+            You Can Check All Companies From Here.
+            </summary>
+            <returns>This endpoint returns a list of Companies With their data.</returns>
+        </member>
+        <member name="M:AllCompaniesAPI.Controllers.CompanyController.GetCompany(System.String)">
+            <summary>
+            You Can Check Companies From Here one by one with their Codes.
+            </summary>
+            <returns>this endpoint returns a Company with its data.</returns>
+        </member>
+        <member name="M:AllCompaniesAPI.Controllers.CompanyController.AddCompany(AllCompaniesAPI.Models.Company)">
+             <summary>
+             You Can Add a New Company From Here With Entering its Parameters.
+             </summary>
+             <remarks>
+             All the parameterse except code in the request body can be null.
+              
+              NOTE: You can only add by one Company at a time.
+              
+             Sample request:
+            
+                 POST /Company
+                 {
+                    "code":not null,
+                    "url":null,
+                    "companyName": null,
+                    "city": null,
+                    "independentAuditingFirm":null
+                 }
+             </remarks>
+             <returns>this endpoint returns a list of Companies</returns>
+        </member>
+        <member name="M:AllCompaniesAPI.Controllers.CompanyController.UpdateCompany(AllCompaniesAPI.Models.Company)">
+            <summary>
+            You Can Update a existing Company From Here with changing the Parameters.
+            </summary>
+            <returns>this endpoint returns a list of Companies</returns>
+        </member>
+        <member name="M:AllCompaniesAPI.Controllers.CompanyController.DeleteCompany(System.String)">
+            <summary>
+            You Can Delete a existing Company From Here with entering its Company Code.
+            </summary>
+            <returns>this endpoint returns a list of Companies</returns>
+        </member>
+        <member name="T:AllCompaniesAPI.Migrations.Initial">
+            <inheritdoc />
+        </member>
+        <member name="M:AllCompaniesAPI.Migrations.Initial.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AllCompaniesAPI.Migrations.Initial.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AllCompaniesAPI.Migrations.Initial.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

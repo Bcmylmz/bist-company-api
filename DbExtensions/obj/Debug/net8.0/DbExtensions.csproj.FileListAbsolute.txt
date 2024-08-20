@@ -1,0 +1,12 @@
+C:\Users\baris\source\repos\AllCompaniesAPI\DbExtensions\bin\Debug\net8.0\DbExtensions.deps.json
+C:\Users\baris\source\repos\AllCompaniesAPI\DbExtensions\bin\Debug\net8.0\DbExtensions.dll
+C:\Users\baris\source\repos\AllCompaniesAPI\DbExtensions\bin\Debug\net8.0\DbExtensions.pdb
+C:\Users\baris\source\repos\AllCompaniesAPI\DbExtensions\obj\Debug\net8.0\DbExtensions.csproj.AssemblyReference.cache
+C:\Users\baris\source\repos\AllCompaniesAPI\DbExtensions\obj\Debug\net8.0\DbExtensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baris\source\repos\AllCompaniesAPI\DbExtensions\obj\Debug\net8.0\DbExtensions.AssemblyInfoInputs.cache
+C:\Users\baris\source\repos\AllCompaniesAPI\DbExtensions\obj\Debug\net8.0\DbExtensions.AssemblyInfo.cs
+C:\Users\baris\source\repos\AllCompaniesAPI\DbExtensions\obj\Debug\net8.0\DbExtensions.csproj.CoreCompileInputs.cache
+C:\Users\baris\source\repos\AllCompaniesAPI\DbExtensions\obj\Debug\net8.0\DbExtensions.dll
+C:\Users\baris\source\repos\AllCompaniesAPI\DbExtensions\obj\Debug\net8.0\refint\DbExtensions.dll
+C:\Users\baris\source\repos\AllCompaniesAPI\DbExtensions\obj\Debug\net8.0\DbExtensions.pdb
+C:\Users\baris\source\repos\AllCompaniesAPI\DbExtensions\obj\Debug\net8.0\ref\DbExtensions.dll

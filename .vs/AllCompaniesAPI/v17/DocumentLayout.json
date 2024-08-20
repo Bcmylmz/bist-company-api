@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\baris\\source\\repos\\AllCompaniesAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99056C6D-1249-4C6F-A3ED-B72CEA983092}|AllCompaniesAPI\\AllCompaniesAPI.csproj|c:\\users\\baris\\source\\repos\\allcompaniesapi\\allcompaniesapi\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99056C6D-1249-4C6F-A3ED-B72CEA983092}|AllCompaniesAPI\\AllCompaniesAPI.csproj|solutionrelative:allcompaniesapi\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99056C6D-1249-4C6F-A3ED-B72CEA983092}|AllCompaniesAPI\\AllCompaniesAPI.csproj|c:\\users\\baris\\source\\repos\\allcompaniesapi\\allcompaniesapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{99056C6D-1249-4C6F-A3ED-B72CEA983092}|AllCompaniesAPI\\AllCompaniesAPI.csproj|solutionrelative:allcompaniesapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99056C6D-1249-4C6F-A3ED-B72CEA983092}|AllCompaniesAPI\\AllCompaniesAPI.csproj|c:\\users\\baris\\source\\repos\\allcompaniesapi\\allcompaniesapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{99056C6D-1249-4C6F-A3ED-B72CEA983092}|AllCompaniesAPI\\AllCompaniesAPI.csproj|solutionrelative:allcompaniesapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3212429-55F4-423F-A225-6CA4C2187E2F}|DbExtensions\\DbExtensions.csproj|c:\\users\\baris\\source\\repos\\allcompaniesapi\\dbextensions\\efextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3212429-55F4-423F-A225-6CA4C2187E2F}|DbExtensions\\DbExtensions.csproj|solutionrelative:dbextensions\\efextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99056C6D-1249-4C6F-A3ED-B72CEA983092}|AllCompaniesAPI\\AllCompaniesAPI.csproj|c:\\users\\baris\\source\\repos\\allcompaniesapi\\allcompaniesapi\\allcompaniesapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{99056C6D-1249-4C6F-A3ED-B72CEA983092}|AllCompaniesAPI\\AllCompaniesAPI.csproj|solutionrelative:allcompaniesapi\\allcompaniesapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99056C6D-1249-4C6F-A3ED-B72CEA983092}|AllCompaniesAPI\\AllCompaniesAPI.csproj|c:\\users\\baris\\source\\repos\\allcompaniesapi\\allcompaniesapi\\companiesjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99056C6D-1249-4C6F-A3ED-B72CEA983092}|AllCompaniesAPI\\AllCompaniesAPI.csproj|solutionrelative:allcompaniesapi\\companiesjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99056C6D-1249-4C6F-A3ED-B72CEA983092}|AllCompaniesAPI\\AllCompaniesAPI.csproj|c:\\users\\baris\\source\\repos\\allcompaniesapi\\allcompaniesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99056C6D-1249-4C6F-A3ED-B72CEA983092}|AllCompaniesAPI\\AllCompaniesAPI.csproj|solutionrelative:allcompaniesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99056C6D-1249-4C6F-A3ED-B72CEA983092}|AllCompaniesAPI\\AllCompaniesAPI.csproj|c:\\users\\baris\\source\\repos\\allcompaniesapi\\allcompaniesapi\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99056C6D-1249-4C6F-A3ED-B72CEA983092}|AllCompaniesAPI\\AllCompaniesAPI.csproj|solutionrelative:allcompaniesapi\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99056C6D-1249-4C6F-A3ED-B72CEA983092}|AllCompaniesAPI\\AllCompaniesAPI.csproj|c:\\users\\baris\\source\\repos\\allcompaniesapi\\allcompaniesapi\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99056C6D-1249-4C6F-A3ED-B72CEA983092}|AllCompaniesAPI\\AllCompaniesAPI.csproj|solutionrelative:allcompaniesapi\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99056C6D-1249-4C6F-A3ED-B72CEA983092}|AllCompaniesAPI\\AllCompaniesAPI.csproj|c:\\users\\baris\\source\\repos\\allcompaniesapi\\allcompaniesapi\\controllers\\rediscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99056C6D-1249-4C6F-A3ED-B72CEA983092}|AllCompaniesAPI\\AllCompaniesAPI.csproj|solutionrelative:allcompaniesapi\\controllers\\rediscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\baris\\source\\repos\\AllCompaniesAPI\\AllCompaniesAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AllCompaniesAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\baris\\source\\repos\\AllCompaniesAPI\\AllCompaniesAPI\\appsettings.json",
+              "RelativeToolTip": "AllCompaniesAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-19T09:04:51.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\baris\\source\\repos\\AllCompaniesAPI\\AllCompaniesAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AllCompaniesAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\baris\\source\\repos\\AllCompaniesAPI\\AllCompaniesAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AllCompaniesAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-19T09:04:46.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EfExtension.cs",
+              "DocumentMoniker": "C:\\Users\\baris\\source\\repos\\AllCompaniesAPI\\DbExtensions\\EfExtension.cs",
+              "RelativeDocumentMoniker": "DbExtensions\\EfExtension.cs",
+              "ToolTip": "C:\\Users\\baris\\source\\repos\\AllCompaniesAPI\\DbExtensions\\EfExtension.cs",
+              "RelativeToolTip": "DbExtensions\\EfExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T09:02:32.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AllCompaniesAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\baris\\source\\repos\\AllCompaniesAPI\\AllCompaniesAPI\\AllCompaniesAPI.csproj",
+              "RelativeDocumentMoniker": "AllCompaniesAPI\\AllCompaniesAPI.csproj",
+              "ToolTip": "C:\\Users\\baris\\source\\repos\\AllCompaniesAPI\\AllCompaniesAPI\\AllCompaniesAPI.csproj",
+              "RelativeToolTip": "AllCompaniesAPI\\AllCompaniesAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAArwAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-19T08:59:15.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CompaniesJob.cs",
+              "DocumentMoniker": "C:\\Users\\baris\\source\\repos\\AllCompaniesAPI\\AllCompaniesAPI\\CompaniesJob.cs",
+              "RelativeDocumentMoniker": "AllCompaniesAPI\\CompaniesJob.cs",
+              "ToolTip": "C:\\Users\\baris\\source\\repos\\AllCompaniesAPI\\AllCompaniesAPI\\CompaniesJob.cs",
+              "RelativeToolTip": "AllCompaniesAPI\\CompaniesJob.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:59:10.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\baris\\source\\repos\\AllCompaniesAPI\\AllCompaniesAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AllCompaniesAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\baris\\source\\repos\\AllCompaniesAPI\\AllCompaniesAPI\\Program.cs",
+              "RelativeToolTip": "AllCompaniesAPI\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAD0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:59:09.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\baris\\source\\repos\\AllCompaniesAPI\\AllCompaniesAPI\\Models\\Company.cs",
+              "RelativeDocumentMoniker": "AllCompaniesAPI\\Models\\Company.cs",
+              "ToolTip": "C:\\Users\\baris\\source\\repos\\AllCompaniesAPI\\AllCompaniesAPI\\Models\\Company.cs",
+              "RelativeToolTip": "AllCompaniesAPI\\Models\\Company.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:59:08.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\baris\\source\\repos\\AllCompaniesAPI\\AllCompaniesAPI\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "AllCompaniesAPI\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\baris\\source\\repos\\AllCompaniesAPI\\AllCompaniesAPI\\Data\\DataContext.cs",
+              "RelativeToolTip": "AllCompaniesAPI\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:59:07.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RedisController.cs",
+              "DocumentMoniker": "C:\\Users\\baris\\source\\repos\\AllCompaniesAPI\\AllCompaniesAPI\\Controllers\\RedisController.cs",
+              "RelativeDocumentMoniker": "AllCompaniesAPI\\Controllers\\RedisController.cs",
+              "ToolTip": "C:\\Users\\baris\\source\\repos\\AllCompaniesAPI\\AllCompaniesAPI\\Controllers\\RedisController.cs",
+              "RelativeToolTip": "AllCompaniesAPI\\Controllers\\RedisController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:59:04.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CompanyController.cs",
+              "DocumentMoniker": "C:\\Users\\baris\\source\\repos\\AllCompaniesAPI\\AllCompaniesAPI\\Controllers\\CompanyController.cs",
+              "RelativeDocumentMoniker": "AllCompaniesAPI\\Controllers\\CompanyController.cs",
+              "ToolTip": "C:\\Users\\baris\\source\\repos\\AllCompaniesAPI\\AllCompaniesAPI\\Controllers\\CompanyController.cs",
+              "RelativeToolTip": "AllCompaniesAPI\\Controllers\\CompanyController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:59:04.024Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
